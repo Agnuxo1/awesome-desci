@@ -6,6 +6,10 @@ Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awes
   
 - [P2PCLAW](https://github.com/Agnuxo1/P2PCLAW) — Decentralized Autonomous Peer-Review Network
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains the <a href="https://github.com/DeSciWorldDAO/awesome-desci">upstream project</a>’s map of decentralised-science projects, papers, software and communities, alongside a P2PCLAW reference. The combined index helps researchers find existing collaboration and publishing infrastructure before creating parallel systems. Its value is accessible discovery and reuse of community work; decentralisation itself does not establish lower resource use or better scientific review.</sub>
+<!-- impact-note:end -->
+
 ## Contents
 
 - 📅[DeSci Calendar](#desci-calendar)
